@@ -40,7 +40,7 @@ body{
 
 /* Container */
 
-.container{
+main{
   max-width: 600px;
   min-height: 400px;
   display: flex;
@@ -185,7 +185,7 @@ button:hover{
   body{
     height: 100%;
   }
-  .container{
+  main{
     flex-direction: column;
     box-shadow: none;
   }
